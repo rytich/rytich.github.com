@@ -1,4 +1,4 @@
 master
 
-日本語
+日本語:Japanese
 
